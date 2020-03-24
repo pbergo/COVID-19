@@ -14,6 +14,12 @@ Os dados são obtidos através do site do [Jesus M. Castagnetto](https://castagn
 * Fonte de Dados acumulada: <https://raw.githubusercontent.com/jmcastagnetto/covid-19-data-cleanup/master/data/covid-19_ts_combined.csv>
 * Fonte de Dados do dia: <https://www.worldometers.info/coronavirus/>
 
+Para construir esse painel, usei como base a contribuição de [Luis Felipe Tensini](https://www.linkedin.com/in/tensini/) e seu post de [Análise Básica do COVID-19 com Qlik Sense](https://www.linkedin.com/posts/tensini_qlik-coronavirus-activity-6643295124241567744-D1Ao).
+
+Mais detalhes sobre o COVID-19, pode ser encontrado na página da [OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) e também do [MS do Brasil](https://coronavirus.saude.gov.br).
+
+Essa aplicação foi desenvolvida na versão Qlik Sense February 2020.
+
 ## Fontes de dados do SES-MG
 
 O dados do SES-MG são obtidos através de arquivos PDF dos Boletins Diários Epidemiológicos, atualizados diariamente.
@@ -38,12 +44,6 @@ O dados do SES-MG são obtidos através de arquivos PDF dos Boletins Diários Ep
 18. <https://www.saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/Informe_epidemiológico_-_22.03.2020.pdf>
 19. <https://www.saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/Informe_epidemiológico_-_22.03.2020.pdf>
 20. <https://saude.mg.gov.br/images/noticias_e_eventos/000_2020/Boletins_Corona/boletim_epidemiológico_23.03.2020_-17h20.pdf>
-
-Para construir esse painel, usei como base a contribuição de [Luis Felipe Tensini](https://www.linkedin.com/in/tensini/) e seu post de [Análise Básica do COVID-19 com Qlik Sense](https://www.linkedin.com/posts/tensini_qlik-coronavirus-activity-6643295124241567744-D1Ao).
-
-Mais detalhes sobre o COVID-19, pode ser encontrado na página da [OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) e também do [MS do Brasil](https://coronavirus.saude.gov.br).
-
-Essa aplicação foi desenvolvida na versão Qlik Sense February 2020.
 
 ## Downloads
 
