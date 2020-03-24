@@ -22,7 +22,9 @@ Essa aplicação foi desenvolvida na versão Qlik Sense February 2020.
 
 ## Fontes de dados do SES-MG
 
-O dados do SES-MG são obtidos através de arquivos PDF dos Boletins Diários Epidemiológicos, atualizados diariamente.
+O dados do SES-MG são obtidos através de arquivos PDF dos Boletins Diários Epidemiológicos, atualizados diariamente e gerados numa planilha da empresa.
+
+* Planilha com os boletins compilados: <https://docs.google.com/spreadsheets/d/1FkHAnOTVGxrVrxPRpFOgsIjCxqk28ERIXz1kt56dtEQ/edit?usp=sharing>
 
 1. <https://www.saude.mg.gov.br/images/noticias_e_eventos/000_2020/jan_fev_mar/02-03-BoletimCoronavirus.pdf>
 2. <https://www.saude.mg.gov.br/images/Boletim_Coronavírus_03-03-20.pdf>
