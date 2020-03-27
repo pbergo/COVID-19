@@ -26,7 +26,7 @@ O dados do SES-MG são obtidos através de arquivos PDF dos Boletins Diários Ep
 
 * Planilha com os boletins compilados: <https://docs.google.com/spreadsheets/d/1FkHAnOTVGxrVrxPRpFOgsIjCxqk28ERIXz1kt56dtEQ/edit?usp=sharing>
 * Página com todos os Informes Epidemiológicos sobre o Coronavírus da SES-MG:<https://www.saude.mg.gov.br/component/search/?all=%22informe+epidemiol%C3%B3gico+coronav%C3%ADrus%22&area=all>
-* Aplicativo da SES-MG que apresenta os dados diários: <https://app.powerbi.com/view?r=eyJrIjoiMDgwOGI4YjItNGFjNC00ZThkLWIyNzctMmNjZTQxMmU1ZjRhIiwidCI6Ijg3ZTRkYTJiLTgyZGYtNDhmNi05MTU3LTY5YzNjYTYwMGRmMiIsImMiOjR9>
+* Aplicativo da SES-MG que apresenta os dados diários: <https://docs.google.com/spreadsheets/d/e/2PACX-1vSJ-sTSKNGPaxqrVTkccEWG0bc8-LdGtlPEXc8qkUI3o7KM0CFmuRMW6UoqPrYID_JDpzGMGWng637S/pubhtml>
 
 1. <https://www.saude.mg.gov.br/images/noticias_e_eventos/000_2020/jan_fev_mar/02-03-BoletimCoronavirus.pdf>
 2. <https://www.saude.mg.gov.br/images/Boletim_Coronavírus_03-03-20.pdf>
