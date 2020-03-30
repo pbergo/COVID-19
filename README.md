@@ -11,15 +11,20 @@ Essa aplicação foi construída para realizar análises e projeções do COVID-
 Os dados são obtidos através de diveras fontes:
 
 * Projeto Github: <https://github.com/jmcastagnetto/covid-19-data-cleanup>
-* Fonte de Dados acumulada: <https://raw.githubusercontent.com/jmcastagnetto/covid-19-data-cleanup/master/data/covid-19_ts_combined.csv>
-* Fonte de Dados do dia: <https://www.worldometers.info/coronavirus/>
-* Fonte dos Dados Brasil.IO: <https://brasil.io/dataset/covid19/caso>
+* Casos acumulados: <https://raw.githubusercontent.com/jmcastagnetto/covid-19-data-cleanup/master/data/covid-19_ts_combined.csv>
+* Casos em tempo real: <https://www.worldometers.info/coronavirus/>
+* Casos do Brasil: <https://brasil.io/dataset/covid19/caso>
+* Municípios (*): <ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2018/DTB_2018.zip>
+* População (*): <https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads>
+* Leitos disponíveis por Municípios (*): <http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def>
 
 Para construir esse painel, usei como base a contribuição de [Luis Felipe Tensini](https://www.linkedin.com/in/tensini/) e seu post de [Análise Básica do COVID-19 com Qlik Sense](https://www.linkedin.com/posts/tensini_qlik-coronavirus-activity-6643295124241567744-D1Ao).
 
 Mais detalhes sobre o COVID-19, pode ser encontrado na página da [OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) e também do [MS do Brasil](https://coronavirus.saude.gov.br).
 
 Essa aplicação foi desenvolvida na versão Qlik Sense February 2020.
+
+(*) Dados baixados manualmente e disponibilizados no Github para acesso pela app
 
 ## Fontes Desativadas
 
