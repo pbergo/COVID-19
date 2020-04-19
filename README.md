@@ -30,7 +30,6 @@ Essa aplicação foi desenvolvida na versão Qlik Sense February 2020.
 
 * Qlik Sense Desktop February 2020 Patch 1: <https://da3hntz84uekx.cloudfront.net/QlikSenseDesktop/13.62/1/_MSI/Qlik_Sense_Desktop_setup.exe>
 
-
 ## Instruções de Instalação
 
 1. Baixe e instale o Qlik Sense Desktop versão February 2020
