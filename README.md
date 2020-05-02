@@ -27,14 +27,6 @@ Essa aplicação foi desenvolvida na versão Qlik Sense February 2020.
 
 (*) Dados baixados manualmente e disponibilizados no Github para acesso pela app
 
-## Fontes de dados desativadas
-
-As fontes a seguir foram desativadas:
-
-* Projeto Github: <https://github.com/jmcastagnetto/covid-19-data-cleanup>
-* Casos acumulados: <https://raw.githubusercontent.com/jmcastagnetto/covid-19-data-cleanup/master/data/covid-19_ts_combined.csv.gz>
-* Casos em tempo real: <https://www.worldometers.info/coronavirus/>
-
 ## Downloads
 
 * Qlik Sense Desktop February 2020 Patch 1: <https://da3hntz84uekx.cloudfront.net/QlikSenseDesktop/13.62/1/_MSI/Qlik_Sense_Desktop_setup.exe>
